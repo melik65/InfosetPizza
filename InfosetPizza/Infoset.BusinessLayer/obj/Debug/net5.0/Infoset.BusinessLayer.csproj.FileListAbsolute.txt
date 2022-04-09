@@ -1,0 +1,17 @@
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.BusinessLayer.deps.json
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.BusinessLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\ref\Infoset.BusinessLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.BusinessLayer.pdb
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.AssemblyInfo.cs
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\ref\Infoset.BusinessLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.pdb
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.DataAccessLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.EntityLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.DataAccessLayer.pdb
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\bin\Debug\net5.0\Infoset.EntityLayer.pdb
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.BusinessLayer\obj\Debug\net5.0\Infoset.BusinessLayer.csproj.CopyComplete

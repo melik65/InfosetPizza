@@ -1,0 +1,12 @@
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\bin\Debug\net5.0\Infoset.EntityLayer.deps.json
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\bin\Debug\net5.0\Infoset.EntityLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\bin\Debug\net5.0\ref\Infoset.EntityLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\bin\Debug\net5.0\Infoset.EntityLayer.pdb
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.AssemblyInfo.cs
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\ref\Infoset.EntityLayer.dll
+C:\Users\melik\Desktop\Infoset\InfosetPizza\Infoset.EntityLayer\obj\Debug\net5.0\Infoset.EntityLayer.pdb
