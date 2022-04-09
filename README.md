@@ -12,7 +12,7 @@ sorgulama yapılacak endpoint :
     api/Branch/GetFive?latitude=38.549224&longitude=43.339409
     
     
-örnek çıktı (uzaklık kilometre cinsinden döndürülür) :
+örnek çıktı (uzaklık kilometre cinsinden döndürülür 10 kilometrelik alandaki en yakın 5 şube döndürülür) :
 
 
 
